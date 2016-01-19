@@ -4,3 +4,6 @@
 [submodule "volume"]
 	path = volume
 	url = https://github.com/genesis55/volume.git
+[submodule "docker-cheat-sheet"]
+	path = docker-cheat-sheet
+	url = https://github.com/wsargent/docker-cheat-sheet.git
